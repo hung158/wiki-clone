@@ -13,15 +13,21 @@
                                                 📚
                                             </span>
                                         </div>
-                                       
                                     </h2>
-                                    <h2 class="font-sans font-bold text-[32px]">
+                                    <h2 class="">
                                         <div>
-                                            <span>
+                                            <span class="font-sans font-bold text-[32px]">
                                                 Sites.wiki
                                             </span>
                                         </div>
                                     </h2>
+                                    <h3>
+                                        <div>
+                                            <span class="text-[26px!]">
+                                                About
+                                            </span>
+                                        </div>
+                                    </h3>
                                 </div>
                             </div>
                         </div>

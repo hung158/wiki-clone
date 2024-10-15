@@ -1,6 +1,6 @@
 <template>
     <div>
-        <header class="flex justify-between bg-black text-white items-center text-xl ">
+        <header class="flex justify-between fixed bg-black text-white items-center text-xl ">
             <div class="px-4">
                 <router-link to="/">
                     <span class="px-3 py-4 block leading-none">
